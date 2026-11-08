@@ -75,7 +75,7 @@
 <h2 align="center">🔮 Arsenal</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,zig,ts,php,linux,fedora,nix&theme=dark" alt="Rust, Zig, TypeScript, PHP, Linux, Fedora, Nix" />
+  <img src="https://skillicons.dev/icons?i=rust,zig,ts,php,linux&theme=dark" alt="Rust, Zig, TypeScript, PHP, Linux" /><img width="12" /><img src="./assets/icon-fedora.svg" width="48" alt="Fedora" /><img width="12" /><img src="https://skillicons.dev/icons?i=nix&theme=dark" alt="Nix" />
 </p>
 
 <p align="center"><img src="./assets/divider.svg" width="600" alt="" /></p>
