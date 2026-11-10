@@ -87,7 +87,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Loris01100&bg_color=0b0a10&color=c9a24a&line=8b1e2d&point=f3dc9a&area=true&area_color=4b2a6b&hide_border=false&custom_title=Rituals%20performed%20this%20moon" alt="Contribution graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/Loris01100/Loris01100/output/snake.svg" alt="Contribution snake" width="100%" />
 </p>
 
 <p align="center">
